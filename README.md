@@ -1,4 +1,4 @@
 # Codechef-Chef-and-The-Right-Triangles
 Link: https://www.codechef.com/problems/RIGHTRI
 ## Derivation of Formula
-![](vis.png)
+
